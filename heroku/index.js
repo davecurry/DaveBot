@@ -122,15 +122,6 @@ app.post('/webhook', function(req, res, next) {
         });
 });
 
-// Facebook Webhook
-app.get('/webhook', function (req, res) {
-    if (req.query['hub.verify_token'] === 'verify_token_davebot') {
-        res.send(req.query['hub.challenge']);
-    } else {
-        res.send('Invalid verify token');
-    }
-});
-
 var server = app.listen(process.env.PORT || 8000, function() {
     var host = server.address().address;
     var port = server.address().port;

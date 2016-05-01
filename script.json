@@ -1,9 +1,11 @@
 {
-    "HI": "Hiya!, I’m DaveBot, the bot version of Dave Curry.\nWe look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)\nIf you want to know more about bots say “MORE BOTS” or say “DAVE” to learn more about my benevolent creator.",
+    "HI": "Hiya!, I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1) %[Give me a restaurant recommendation](postback:restaurant_1)",
 
     "HELLO": "HELLO!, I’m DaveBot, the bot version of Dave Curry.",
 
-    "DAVE": "Oh man, what can I say about Dave? You gotta help me out. He's into so many things... Say 'PODCAST'",
+    "TELL ME ABOUT DAVE": "Oh man, what can I say about Dave? You gotta help me out. He's into so many things... Say 'PODCAST'",
+
+    "TELL ME A JOKE": "Customer: Waiter! Waiter! What’s this robot doing in my soup?\nWaiter:It looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂 OMG I love that one. McSweeney's has the %[best robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 

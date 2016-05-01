@@ -3,9 +3,9 @@
 
     "HELLO": "HELLO!, I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1) %[Give me a restaurant recommendation](postback:restaurant_1)",
 
-    "TELL ME ABOUT DAVE": "Oh man, what can I say about Dave? He's into so many things... You gotta help me out. %[Dave's Career](postback_career) %[Dave's Podcast](postback_podcast) %[Dave's Semi-Weekly Link Pack](postback_requiredreading)",
+    "TELL ME ABOUT DAVE": "Oh man, what can I say about Dave? He's into so many things...\nYou gotta help me out. %[Career](postback_career) %[Podcast](postback_podcast) %[Semi-Weekly Link Pack](postback_requiredreading)",
 
-    "TELL ME A JOKE": "Customer: Waiter! Waiter! What’s this robot doing in my soup?\nWaiter: It looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂 OMG I LOVE THAT ONE! McSweeney's has the %[best robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tell me about Dave](postback:about_dave)",
+    "TELL ME A JOKE": "Customer: Waiter! Waiter! What’s this robot doing in my soup? Waiter: It looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂 OMG I LOVE THAT ONE! %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tell me about Dave](postback:about_dave)",
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 

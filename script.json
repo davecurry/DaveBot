@@ -1,5 +1,9 @@
 {
+    "ABOUT": "You wanna know about me?\nWell, I'm a bot and I'm based on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
+
     "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+
+    "HIYA": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
     "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
@@ -17,7 +21,7 @@
 
     "PODCAST": "Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
 
-    "REQUIRED READING": "OK, so Dave has been publishing a semi-weekly link pack for a while now, and now the latest issues are finally available to all!\nHere's a link to Required Reading on the POP site: %[Required Reading](http://www.wearepop.com/topic/required-reading)",
+    "REQUIRED READING": "COOL! Dave has been publishing a semi-weekly link pack for a while, and thanks to our new site at work, the latest issues are available to all!\nHere's a link to Required Reading on the POP site: %[Required Reading](http://www.wearepop.com/topic/required-reading)",
 
     "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)",
 
@@ -25,7 +29,11 @@
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 
+    "PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
+    
     "POST A PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
+
+    "SHOW ME A PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 
     "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
 

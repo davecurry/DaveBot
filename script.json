@@ -65,6 +65,18 @@
 
     "SHOW ME A PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 
+    "VIVE": "YES! The HTC VIVE! Dave was part of the launch of the Vive! Check this out: %[HTC Vive Case Study](http://www.wearepop.com/articles/work/htc-vive-vr)",
+
+    "HTC VIVE": "YES! The HTC VIVE! Dave was part of the launch of the Vive! Check this out: %[HTC Vive Case Study](http://www.wearepop.com/articles/work/htc-vive-vr)",
+
+    "OCULUS": "OH YEAH! Dave is probably in some virtual space right now. Having started with the DK1, then the DK2, Dave is thrilled the Oculus Rift is finally here!\nCan I get a Hallelujah?",
+
+    "OCULUS RIFT": "OH YEAH! Dave is probably in some virtual space right now. Having started with the DK1, then the DK2, Dave is thrilled the Oculus Rift is finally here!\nCan I get a Hallelujah?",
+
+    "HALLELUJAH": "Why thank you!",
+
+    "RIFT": "OH YEAH! Dave is probably in some virtual space right now. Having started with the DK1, then the DK2, Dave is thrilled the Oculus Rift is finally here!\nCan I get a Hallelujah?",
+
     "TWITTER": "I'm not on Twitter, but Dave is. Follow him if you dare: %[Follow @davecurry](http://twitter.com/davecurry)",
 
     "LINKEDIN": "I'm not on LinkedIn YET, but Dave is. Link up with him here: %[Dave on LinkedIn](http://linkedin.com/in/davecurry)",
@@ -73,13 +85,13 @@
 
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
 
-    "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.\n![respond_stop](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_stop.gif)",
+    "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.",
 
-    "NO": "No is right.\n![respond_no](https://media.giphy.com/media/6Q2KA5ly49368/giphy.gif)",
+    "NO": "HAHAHAHAHAaaaaaa, NO.",
 
-    "YES": "![respond_yes](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_yes.gif)",
+    "YES": "OK!",
 
-    "GIF": "This is Dave's favorite GIF. I don't get it.\n![respond_no](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_gif.gif)",
+    "GIF": "I don't think GIFs work, but this is Dave's favorite GIF. Working or not, I don't get it.\n![respond_no](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_gif.gif)",
 
     "POP": "Have you seen our new site? %[wearepop.com](http://wearepop.com)",
 
@@ -91,7 +103,7 @@
 
     "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
 
-    "WHY": "Great question!\nNext caller please.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)\n![respond_why](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_why.gif)",
+    "WHY": "Great question!\nNext caller please.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "WHERE IS DAVE": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
 

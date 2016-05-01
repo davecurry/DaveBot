@@ -23,7 +23,7 @@
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
-    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
+    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
@@ -52,6 +52,8 @@
     "HOLOLENS": "YES! Dave was in a pre-release program for HoloLens and has been working with it for some time now.\nHe's learned a ton about creating holographic experiences and turned a talk he gave at BUILD into an easy-to-consume blog post.\nIf you're interested in HoloLens, you must check it out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)\nBTW, I know more stuff, just say 'MORE'.",
 
     "PODCAST": "Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
+
+    "STEALING": "Hah! Trick question! Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
 
     "REQUIRED READING": "COOL! Dave has been publishing a semi-weekly link pack for a while, and thanks to our new site at work, the latest issues are available to all!\nHere's a link to Required Reading on the POP site: %[Required Reading](http://www.wearepop.com/topic/required-reading)\nBTW, I know more things, just say 'MORE'.",
 

@@ -73,7 +73,13 @@
 
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
 
-    "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.",
+    "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.\n![respond_stop](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_stop.gif)",
+
+    "NO": "No is right.\n![respond_no](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_no.gif)",
+
+    "YES": "![respond_yes](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_yes.gif)",
+
+    "GIF": "This is Dave's favorite GIF. I don't get it.\n![respond_no](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_gif.gif)",
 
     "POP": "Have you seen our new site? %[wearepop.com](http://wearepop.com)",
 
@@ -85,7 +91,7 @@
 
     "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
 
-    "WHY": "Great question!\nNext caller please.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
+    "WHY": "Great question!\nNext caller please.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)\n![respond_why](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_why.gif)",
 
     "WHERE IS DAVE": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
 

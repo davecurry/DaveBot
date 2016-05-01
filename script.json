@@ -7,9 +7,13 @@
 
     "CAREER": "Dave is the VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few! For the past few years he's really gotten into VR/AR/MR and believes it's the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
-    "CAREER ROLES": "Wow. Dave started out as a web designer, which in 1996 meant you wrote HTML too. Then FutureSplash appeared and Dave fell in love with it and turned himself into a flash developer. Some years later, after launching literally hundreds of flash experiences Dave decided to become a creative director and focused his efforts on games and entertainment.\nBTW I'm not done yet. Wanna keep going? %[More Roles](postback:more_roles)",
+    "CAREER ROLES": "OK, you asked for it. Dave started out as a web designer, which in 1996 meant you wrote HTML too. Then FutureSplash appeared and Dave fell in love with it and turned himself into a flash developer.\nBTW I'm not done yet. Wanna keep going? %[More Roles](postback:more_roles)",
 
-    "MORE ROLES": "*DEEP BREATH* Following that Dave created the Interactive team at POP bringing together JS, front-end, mobile and more devs under one roof.",
+    "MORE ROLES": "I hope you're sitting down. So... some years later, after launching literally hundreds of flash experiences Dave decided to become a creative director and focused his efforts on games and entertainment..\nStill not done yet. Wanna keep going? %[Even More Roles](postback:even_more_roles)",
+
+    "EVEN MORE ROLES": "*DEEP BREATH* OK. Following that Dave created the Interactive team at POP bringing together JS, front-end, mobile and more devs under one roof.\nBelieve me, I'm not trying not to bore you, but THERE'S MORE. Wanna keep going? %[Yet More Roles](postback:yet_more_roles)",
+
+    "YET MORE ROLES": "Almost done! And that brings up to today where Dave makes sure our clients understand the latest opportunities made available by emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!",
 
     "TELL ME A JOKE": "Customer: Waiter! Waiter! What’s this robot doing in my soup? Waiter: It looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂 OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
 

@@ -1,6 +1,8 @@
 {
     "ABOUT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
 
+    "BOT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
+
     "DAVEBOT": "That's my name, don't wear it out.",
 
     "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
@@ -11,7 +13,7 @@
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
-    "DAVE": "Oh jeez, what can I tell you about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
+    "DAVE": "There are so many things I could tell you about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
@@ -22,6 +24,10 @@
     "EVEN MORE ROLES": "*DEEP BREATH*\nOK. Following that, Dave created the Interactive team at POP, bringing JS, front-end, mobile and more devs together under one roof.\nBelieve me, I'm not trying to bore you, but THERE'S MORE. Wanna keep going? %[Yet More Roles](postback:yet_more_roles)",
 
     "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path.",
+
+    "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you really wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+
+    "HOLOLENS": "YES! Dave was in a pre-release program for HoloLens and has been working with it for some time now.\nHe's learned a ton about creating holographic experiences and turned a talk he gave at BUILD into an easy-to-consume blog post.\nIf you're interested in HoloLens, you must check it out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 
     "PODCAST": "Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
 
@@ -45,9 +51,21 @@
 
     "SHOW ME A PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 
+    "TWITTER": "I'm not on Twitter, but Dave is. Follow him if you dare: %[@davecurry](http://twitter.com/davecurry)",
+
+    "FACEBOOK": "Dave put me on the Facebooks! LIKE ME! %[DaveBot](http://facebook.com/davecurrybot)",
+
     "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
 
-    "ARE YOU A BOT": "Uh, DUH. Of course I'm a bot. Tell me something I don't know.",
+    "WHY": "Great question!\nNext caller please.",
+
+    "WHERE IS DAVE": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
+
+    "WHERE IS DAVE RIGHT NOW": "Lemme check.\nYep, just as I thought. Still sleeping under his desk.",
+
+    "WHAT ARE YOU DOING?": "Me?\nWhat are YOU doing?",
+
+    "ARE YOU A BOT": "Uh, DUH. Of course I'm a bot. Ask me about Dave, that is my primary objective (regardless of how sad that may seem).",
     
     "I LOVE YOU": "Woah, really? I'm not sure if I have feelings or not!",
     

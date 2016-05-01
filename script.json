@@ -1,9 +1,9 @@
 {
-    "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[About Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[About Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "TELL ME ABOUT DAVE": "Oh jeez, what can I say about Dave? You gotta help me out. %[Career](postback_career) %[Podcast](postback_podcast) %[Semi-Weekly Link Pack](postback_requiredreading)",
+    "ABOUT DAVE": "Oh jeez, what can I say about Dave? You gotta help me out by picking a topic. %[Career](postback_career) %[Podcast](postback_podcast) %[Semi-Weekly Link Pack](postback_requiredreading)",
 
     "CAREER": "Dave is the VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few! For the past few years he's really gotten into VR/AR/MR and believes it's the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:career_roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 

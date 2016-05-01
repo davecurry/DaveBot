@@ -68,3 +68,18 @@ module.exports = new Script({
         }
     }
 });
+
+
+smooch.conversations.sendMessage('1e964e825c79620fbbd682bf4d80a3ba13d313a3', {
+    text: 'Just put some vinegar on it',
+    role: 'appMaker',
+    actions: [
+      {
+        type: 'postback',
+        text: 'Buy vinegar',
+        payload: 'buy_vinegar'
+      }
+    ]
+}).then(() => {
+    // async code
+});

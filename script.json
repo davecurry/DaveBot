@@ -135,11 +135,17 @@
 
     "WHERE IS DAVE": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
 
+    "WHERE IS DAVE?": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
+
     "WHERE IS DAVE RIGHT NOW": "Lemme check.\nYep, just as I thought. Still sleeping under his desk.",
+
+    "WHERE IS DAVE RIGHT NOW?": "Lemme check.\nYep, just as I thought. Still sleeping under his desk.",
 
     "WHAT ARE YOU DOING?": "Me?\nWhat are YOU doing?",
 
     "ARE YOU A BOT": "Uh, DUH. Of course I'm a bot. Ask me about Dave, that is my primary objective (regardless of how sad that may seem).",
+
+    "ARE YOU A BOT?": "Uh, DUH. Of course I'm a bot. Ask me about Dave, that is my primary objective (regardless of how sad that may seem).",
     
     "I LOVE YOU": "Woah, really? I'm not sure if I have feelings or not!",
     

@@ -3,11 +3,13 @@
 
     "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[About Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "ABOUT DAVE": "Oh jeez, what can I say about Dave? You gotta help me out by picking a topic. %[Career](postback_career) %[Podcast](postback_podcast) %[Semi-Weekly Link Pack](postback_requiredreading)",
+    "ABOUT DAVE": "Oh jeez, what can I say about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Semi-Weekly Link Pack](postback:requiredreading)",
 
-    "CAREER": "Dave is the VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few! For the past few years he's really gotten into VR/AR/MR and believes it's the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
+    "CAREER": "Dave is the VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few! For the past few years he's really gotten into VR/AR/MR and believes it's the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
-    "ROLES": "Over the years",
+    "CAREER ROLES": "Wow. Dave started out as a web designer, which in 1996 meant you wrote HTML too. Then FutureSplash appeared and Dave fell in love with it and turned himself into a flash developer. Some years later, after launching literally hundreds of flash experiences Dave decided to become a creative director and focused his efforts on games and entertainment.\nBTW I'm not done yet. Wanna keep going? %[More Roles](postback:more_roles)",
+
+    "MORE ROLES": "*DEEP BREATH* Following that Dave created the Interactive team at POP bringing together JS, front-end, mobile and more devs under one roof.",
 
     "TELL ME A JOKE": "Customer: Waiter! Waiter! What’s this robot doing in my soup? Waiter: It looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂 OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
 

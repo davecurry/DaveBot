@@ -107,6 +107,12 @@
 
     "WHAT SHOULD I DO FOR FUN TODAY?": "You could try parsing zeros and ones, that's fun!\nAsk me about 'DAVE', OK?",
 
+    "OK": "OK?\nI'm OK if you're OK. And I'm just a bot! OK?\nYou can start over by saying 'HI'.",
+
+    "OK!": "OK?\nI'm OK if you're OK. And I'm just a bot! OK?",
+
+    "OK?": "OK?\nI'm OK if you're OK. And I'm just a bot! OK? (Welcome to the endless bot-loop!)",
+
     "BYE": "OK BYE!",
 
     "BYE!": "OK BYE!",

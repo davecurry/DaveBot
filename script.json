@@ -3,7 +3,7 @@
 
     "BOT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
 
-    "DAVEBOT": "That's my name, don't wear it out.",
+    "DAVEBOT": "That's my name, don't wear it out.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
@@ -13,9 +13,11 @@
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
-    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
+    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
+
+    "WORK": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
     "CAREER ROLES": "OK, I hope you're sitting down. Dave started out as a 'web designer' which meant he wrote HTML too. Then FutureSplash appeared, Dave fell in love with it and became a bonafide flash developer.\nBTW I'm not done yet. Wanna keep going? %[More Roles](postback:more_roles)",
 
@@ -25,17 +27,17 @@
 
     "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path.",
 
-    "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+    "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
 
-    "VR": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+    "VR": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
 
-    "AUGMENTED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+    "AUGMENTED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
 
-    "AR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+    "AR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
 
-    "MIXED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
+    "MIXED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 
-    "MR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
+    "MR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 
     "HOLOLENS": "YES! Dave was in a pre-release program for HoloLens and has been working with it for some time now.\nHe's learned a ton about creating holographic experiences and turned a talk he gave at BUILD into an easy-to-consume blog post.\nIf you're interested in HoloLens, you must check it out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 
@@ -61,13 +63,25 @@
 
     "SHOW ME A PICTURE": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 
-    "TWITTER": "I'm not on Twitter, but Dave is. Follow him if you dare: %[@davecurry](http://twitter.com/davecurry)",
+    "TWITTER": "I'm not on Twitter, but Dave is. Follow him if you dare: %[Follow @davecurry](http://twitter.com/davecurry)",
 
-    "FACEBOOK": "Dave put me on the Facebooks! LIKE ME! %[DaveBot](http://facebook.com/davecurrybot)",
+    "LINKEDIN": "I'm not on LinkedIn YET, but Dave is. Link up with him here: %[Dave on LinkedIn](http://linkedin.com/in/davecurry)",
+
+    "FACEBOOK": "Dave put me on the Facebooks! LIKE ME! %[Visit DaveBot](http://facebook.com/davecurrybot)",
+
+    "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
+
+    "POP": "Have you seen our new site? %[wearepop.com](http://wearepop.com)",
+
+    "BOOK": "You wanna know what Dave is reading right now?\nThis is what he's reading on his BELOVED KINDLE (I'm not jealous): %[How Should a Person Be?](http://www.amazon.com/How-Should-Person-Be-Novel-ebook/dp/B0071VUO7U)",
+
+    "READING": "You wanna know what Dave is reading right now?\nThis is what he's reading on his BELOVED KINDLE (I'm not jealous): %[How Should a Person Be?](http://www.amazon.com/How-Should-Person-Be-Novel-ebook/dp/B0071VUO7U)",
+
+    "WHAT IS DAVE READING?": "This is what Dave is reading on his BELOVED KINDLE (I'm not jealous): %[How Should a Person Be?](http://www.amazon.com/How-Should-Person-Be-Novel-ebook/dp/B0071VUO7U)",
 
     "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
 
-    "WHY": "Great question!\nNext caller please.",
+    "WHY": "Great question!\nNext caller please.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "WHERE IS DAVE": "Lemme check.\nYep, just as I thought. Dave is sleeping under his desk right now.",
 

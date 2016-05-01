@@ -17,7 +17,7 @@
 
     "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[Tweet Dave](postback:tweet) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
 
-    "TWEET DAVE": "Tweet @ Dave so he knows you're talking to his bot. I went ahead and wrote a tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20talking%20to%20the%20bot%20version%20of%20@davecurry%20on%20Messenger%20and%20I%20think%20I%20like%20it%20better%20than%20the%20real%20thing.%20😂)",
+    "TWEET DAVE": "Tweet @ Dave so he knows you're talking to his bot. I went ahead and wrote a tweet for you: %[Tweet Dave](I%27m+messaging+the+bot+version+of+%40davecurry+and+it%27s+better+than+the+real+thing%21+Try+it+out+for+yourself+at+http%3A%2F%2Fm.me%2Fdavecurrybot)",
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 

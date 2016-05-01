@@ -5,7 +5,7 @@
 
     "BOT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
 
-    "DAVEBOT": "That's my name, don't wear it out.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
+    "DAVEBOT": "That's my name, don't wear it out.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)\nThat didn't sound sarcastic, did it?",
 
     "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 

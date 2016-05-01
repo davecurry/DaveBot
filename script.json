@@ -1,4 +1,6 @@
 {
+    "?": "A question mark! If you're confused say 'HI' to start over. Or say 'DAVE' to jump in.",
+
     "ABOUT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
 
     "BOT": "You wanna know about lil' 'ole me?\nIf it's not obvious by now, I am a bot and Dave based me on the amazing and fabulous EstherBot.\nYou can chat with EstherBot and learn more about her, and therefore me, here: %[EstherBot](http://estherbot.com)",
@@ -70,6 +72,8 @@
     "FACEBOOK": "Dave put me on the Facebooks! LIKE ME! %[Visit DaveBot](http://facebook.com/davecurrybot)",
 
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
+
+    "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.",
 
     "POP": "Have you seen our new site? %[wearepop.com](http://wearepop.com)",
 

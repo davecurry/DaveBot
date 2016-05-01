@@ -15,9 +15,11 @@
 
     "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path.",
 
-    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[Tweet Dave](postback:tweet) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
+    "PODCAST": "Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out (That's a real URL BTW)! %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
 
-    "TWEET DAVE": "Tweet @ Dave so he knows you're talking to his bot. I went ahead and wrote a tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
+    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)",
+
+    "TWEET DAVE": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote a tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 

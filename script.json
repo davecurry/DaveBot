@@ -9,9 +9,15 @@
 
     "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
+    "HI!": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+
     "HIYA": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
+    "HIYA!": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+
     "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+
+    "HELLO!": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
@@ -90,6 +96,24 @@
     "NO": "HAHAHAHAHAaaaaaa, NO.",
 
     "YES": "OK!",
+
+    "WHAT TIME IS IT?": "SURE, I have a face, but I'm a bot, not a clock!\nAsk me about 'DAVE', mmm'kay?",
+
+    "WHAT TIME IS IT": "You need to FACE facts, I'm a bot, not a clock!\nAsk me about 'DAVE', mmm'kay?",
+
+    "WHAT SHOULD I DO TODAY?": "You're asking me? I'm a bot not a cruise director!\nAsk me about 'DAVE', OK?",
+
+    "WHAT SHOULD I DO FOR FUN?": "You could try parsing zeros and ones, that's fun!\nAsk me about 'DAVE', OK?",
+
+    "WHAT SHOULD I DO FOR FUN TODAY?": "You could try parsing zeros and ones, that's fun!\nAsk me about 'DAVE', OK?",
+
+    "BYE": "OK BYE!",
+
+    "BYE!": "OK BYE!",
+
+    "I'M GONNA GO BYE!": "OK BYE!",
+
+    "I'M GONNA GO, BYE!": "OK BYE!",
 
     "GIF": "I don't think GIFs work, but this is Dave's favorite GIF. Working or not, I don't get it.\n![respond_no](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/respond_gif.gif)",
 

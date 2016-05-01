@@ -11,9 +11,9 @@
 
     "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
+    "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
-    "DAVE": "There are so many things I could tell you about Dave? You gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
+    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 
@@ -25,7 +25,17 @@
 
     "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path.",
 
-    "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you really wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+    "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+
+    "VR": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+
+    "AUGMENTED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+
+    "AR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look.",
+
+    "MIXED REALITY": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
+
+    "MR": "Look. Dave could talk about VR/AR and MR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[@davecurry](http://twitter.com/davecurry)\nYou should also check this out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 
     "HOLOLENS": "YES! Dave was in a pre-release program for HoloLens and has been working with it for some time now.\nHe's learned a ton about creating holographic experiences and turned a talk he gave at BUILD into an easy-to-consume blog post.\nIf you're interested in HoloLens, you must check it out: %[Iterative Holographic Design](http://www.wearepop.com/articles/improv-not-screenplays)",
 

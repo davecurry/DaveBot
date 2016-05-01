@@ -7,17 +7,19 @@
 
     "DAVEBOT": "That's my name, don't wear it out.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)\nThat didn't sound sarcastic, did it?",
 
-    "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HI!": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI DAVE": "Sorry! I'm not Dave, I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HIYA": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI!": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HIYA!": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HIYA": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HIYA!": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HELLO!": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat can I help you with? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+
+    "HELLO!": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
 
@@ -59,6 +61,8 @@
 
     "ANOTHER JOKE": "OK!\nHow do you stop a robot from destroying you and the rest of civilization?\nYou don’t.\nLOL Soooooo HILARIOUS! And true!",
 
+    "MORE JOKES": "I'm all joked out. Try these: %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
+
     "TWEET": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote this clever tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
 
     "TWEET DAVE": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote this clever tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
@@ -99,7 +103,23 @@
 
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
 
+    "MOAR": "You wanna know moar. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'GIF' or 'BOOK' or 'LINKEDIN' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
+
     "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.",
+
+    "TELL ME A STORY": "OK!\nOnce upon a time there was a bot named TAY.\nAnd it didn't go so well.\nTHE END!",
+
+    "SIGH": "Maybe you should watch this: %[Louis CK Clip](https://www.youtube.com/watch?v=q8LaT5Iiwo4)",
+
+    "SIGH...": "Maybe you should watch this: %[Louis CK Clip](https://www.youtube.com/watch?v=q8LaT5Iiwo4)",
+
+    "WHAT DO YOU UNDERSTAND?": "Look, don't get upset with me. Blame Dave. I know I do.",
+
+    "WHAT DO YOU UNDERSTAND": "Look, don't get upset with me. Blame Dave. I know I do.",
+
+    "WHAT'S YOUR FAVORITE KIND OF ICE CREAM?": "I can't eat ice cream, I'm a bot remember?\nBut Dave?\nDave loves ice cream, peanut butter ice cream.",
+
+    "WHAT KIND OF ICE CREAM DO YOU LIKE?": "I can't eat ice cream, I'm a bot remember?\nBut Dave?\nDave loves ice cream, peanut butter ice cream.",
 
     "NO": "HAHAHAHAHAaaaaaa, NO.",
 

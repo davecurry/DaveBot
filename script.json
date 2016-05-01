@@ -33,7 +33,7 @@
 
     "EVEN MORE ROLES": "*DEEP BREATH*\nOK. Following that, Dave created the Interactive team at POP, bringing JS, front-end, mobile and more devs together under one roof.\nBelieve me, I'm not trying to bore you, but THERE'S MORE. Wanna keep going? %[Yet More Roles](postback:yet_more_roles)",
 
-    "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path.",
+    "YET MORE ROLES": "And that brings up to today where Dave helps our clients understand the latest opportunities made available from emerging trends and technology.\nWhew. That was a mouthful. And I didn't even mention how Dave ran all of POP's social media channels for like seven or eight years. DANG!\nSay 'CAREER' if you wanna go down a different path or try saying 'RANDOM FACT'?",
 
     "VIRTUAL REALITY": "Look. Dave could talk about VR non-stop for days on end.\nTrust me. I've been there.\nIf you wanna talk about VR plz follow Dave on Twitter, and leave me out of it. %[Follow @davecurry](http://twitter.com/davecurry)\nBTW have you ever seen a bot with an HMD on? Not the best look. Say 'BOT' to learn more about me.",
 
@@ -59,9 +59,17 @@
 
     "ANOTHER JOKE": "OK!\nHow do you stop a robot from destroying you and the rest of civilization?\nYou don’t.\nLOL Soooooo HILARIOUS! And true!",
 
-    "TWEET": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote a tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
+    "TWEET": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote this clever tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
 
-    "TWEET DAVE": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote a tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
+    "TWEET DAVE": "OK, let's tweet @ Dave so he knows you're talking to his bot.\nI went ahead and wrote this clever tweet for you: %[Tweet Dave](https://twitter.com/intent/tweet?text=I'm%20messaging%20the%20bot%20version%20of%20@davecurry%20and%20it's%20better%20than%20the%20real%20thing!%20😂%20Try%20it%20out%20for%20yourself%20at%20http://m.me/davecurrybot)",
+
+    "RANDOM FACT": "OK, here goes.\nBefore working in, or on, or inside of the internet, Dave worked as a painter and set decorator on the TV show Northern Exposure.\nHe also worked on a few films and told me Drew Barrymore is a surprisingly tiny person.\nYou can say 'RANDOM FACT 2' for another thrilling rando facto.",
+
+    "RANDOM FACT 2": "Dave got married in Vegas. That's right, LAS VEGAS. Classy, huh?",
+
+    "RANDOM FACT 3": "A band Dave was in opened for REM. He says they actually made money that night.\n There's a first time for everything, right?",
+
+    "RANDOM FACT 4": "\nI gotta be honest, I feel a little guilty dishing all this juicy scoop about Dave.\nMaybe you should follow him on Twitter... And don't tell him what I told you, OK? %[Follow @davecurry](http://twitter.com/davecurry)",
 
     "PIC": "We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)",
 

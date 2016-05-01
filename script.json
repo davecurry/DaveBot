@@ -1,5 +1,11 @@
 {
-    "BOT": "Hiya!, I’m DaveBot, the bot version of Dave Curry.\nWe look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)\nIf you want to know more about bots say “MORE BOTS” or say “DAVE” to learn more about my benevolent creator.",
+    "HI": "Hiya!, I’m DaveBot, the bot version of Dave Curry.\nWe look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)\nIf you want to know more about bots say “MORE BOTS” or say “DAVE” to learn more about my benevolent creator.",
+
+    "HELLO": "HELLO!, I’m DaveBot, the bot version of Dave Curry.",
+
+    "WHAT": "What?\nIf you want to know more about my benevolent creator say 'DAVE'.",
+
+    "ARE YOU A BOT": "Uh, DUH. Of course I'm a bot. Ask me something more interesting.",
     
     "BOT2": "HELLO!\nI’m DaveBot, the bot version of Dave Curry. We look alike don't you think?\n![dave](https://raw.githubusercontent.com/davecurry/DaveBot/master/img/dave-hoodie-square-512.jpg)\nWant to know more about bots or learn about Esther? %[Buy Vinegar](postback:buy_vinegar) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey there, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",

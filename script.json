@@ -7,19 +7,19 @@
 
     "DAVEBOT": "That's my name, don't wear it out.\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)\nThat didn't sound sarcastic, did it?",
 
-    "HI": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI": "HI! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HI DAVE": "Sorry! I'm not Dave, I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI DAVE": "Sorry! I'm not Dave, I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HI!": "HI! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HI!": "HI! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HIYA": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HIYA": "HIYA! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HIYA!": "HIYA! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HIYA!": "HIYA! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HELLO": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HELLO": "HELLO! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "HELLO!": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
+    "HELLO!": "HELLO! I’m DaveBot v0.1, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)",
 

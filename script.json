@@ -23,6 +23,8 @@
 
     "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)",
 
+    "ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)",
+
     "DAVE": "There are so many things I could tell you about Dave!\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
@@ -108,6 +110,8 @@
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
 
     "MOAR": "You wanna know moar. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'GIF' or 'BOOK' or 'LINKEDIN' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
+
+    "TELL ME MORE": "You wanna ME to tell YOU more? FINE.\nTry saying 'TAY' or 'VIVE' or 'SIGH' or 'FACEBOOK' or 'MIXED REALITY' and I might have something for you.",
 
     "STOP": "My wish is your command, but that's not a valid BOT command. Try 'DISCONNECT' to, you know, disconnect.",
 

@@ -21,9 +21,9 @@
 
     "HELLO!": "HELLO! I’m DaveBot, the bot version of Dave Curry.\nWhat should we do first? %[Tell me about Dave](postback:about_dave) %[Tell me a joke](postback:joke_1)",
 
-    "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Podcast](postback:podcast) %[Required Reading](postback:requiredreading)",
+    "TELL ME ABOUT DAVE": "Oh jeez, what can I tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)",
 
-    "DAVE": "There are so many things I could tell you about Dave?\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
+    "DAVE": "There are so many things I could tell you about Dave!\nYou gotta help me out by picking a topic. %[Career](postback:career) %[Stealing](postback:stealing) %[Required Reading](postback:requiredreading)\nIf you're tired of talking to me you can message Dave, I'm sure he'd LOVE to hear from you. %[Message Dave](http://m.me/davecurry)",
 
     "CAREER": "Dave is VP Emerging Trends & Technology at POP and he's been riding this crazy internet train for nearly 2 decades. Over the years he's worked with an amazing array of clients; Nintendo, Starbucks, HTC, Microsoft, just to name a few!\nFor the past few years he's really gotten into VR/AR/MR and bots and believes they are the future.\n(And from my perspective as a bot, I'd have to agree.)\nWanna know more? %[Career Roles](postback:roles) %[Virtual Reality](postback:virtual_reality) %[HoloLens](postback:hololens)\nYou can always start over by saying HI.",
 

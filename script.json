@@ -61,7 +61,7 @@
 
     "TAY": "To quote the great Kanye West:\nI don't even wanna talk about it.\nI don't even want to say nothing.\nEverybody gon' say something.\nI'd be worried if they said nothing.\nRemind me where I know you from?",
 
-    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)\nWanna know more stuff? Say 'MORE'.",
+    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)\nWanna know more stuff? Say 'MOAR'.",
 
     "JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE!",
 

@@ -59,6 +59,10 @@
 
     "REQUIRED READING": "COOL! Dave has been publishing a semi-weekly link pack for a while, and thanks to our new site at work, the latest issues are available to all!\nHere's a link to Required Reading on the POP site: %[Required Reading](http://www.wearepop.com/topic/required-reading)\nBTW, I know more things, just say 'MORE'.",
 
+    "KANYE": "Listen to this: %[This is a pod dream!](https://soundcloud.com/breakmaster-cylinder/this-is-a-pod-dream-stephenwilson-danbl00m)",
+
+    "KANYE WEST": "Listen to this: %[This is a pod dream!](https://soundcloud.com/breakmaster-cylinder/this-is-a-pod-dream-stephenwilson-danbl00m)",
+
     "TAY": "To quote the great Kanye West:\nI don't even wanna talk about it.\nI don't even want to say nothing.\nEverybody gon' say something.\nI'd be worried if they said nothing.\nRemind me where I know you from?",
 
     "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)\nWanna know more stuff? Say 'MOAR'.",

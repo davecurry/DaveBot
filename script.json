@@ -55,7 +55,7 @@
 
     "PODCAST": "Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)\nFYI, you can start over by saying 'HI'.",
 
-    "STEALING": "Hah! Trick question! Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)\nFYI, you can start over by saying 'HI'.",
+    "STEALING": "Hah! Trick question! Like every third person on the planet, Dave has a podcast. It's called Say Something Worth Stealing and in it Dave gets creatives to talk about their careers and craft.\nYou should check it out! (And yes, that kittens link is a real URL. My creator... Mr. Funny-Pants.) %[http://kittens.design](http://kittens.design) %[SSWS on iTunes](http://saysomethingworthstealing.com/itunes)",
 
     "REQUIRED READING": "COOL! Dave has been publishing a semi-weekly link pack for a while, and thanks to our new site at work, the latest issues are available to all!\nHere's a link to Required Reading on the POP site: %[Required Reading](http://www.wearepop.com/topic/required-reading)\nBTW, I know more things, just say 'MORE'.",
 
@@ -65,11 +65,11 @@
 
     "TAY": "To quote the great Kanye West:\nI don't even wanna talk about it.\nI don't even want to say nothing.\nEverybody gon' say something.\nI'd be worried if they said nothing.\nRemind me where I know you from?",
 
-    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)\nWanna know more stuff? Say 'MOAR'.",
+    "TELL ME A JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE! %[Tell me about Dave](postback:about_dave) %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots) %[Tweet Dave](postback:tweet)",
 
     "JOKE": "OK!\nWaiter! Waiter! What’s this robot doing in my soup?\nIt looks like he’s performing human tasks twice as well, because he knows no fear or pain.\n😂OMG I LOVE THAT ONE!",
 
-    "ANOTHER JOKE": "OK!\nHow do you stop a robot from destroying you and the rest of civilization?\nYou don’t.\nLOL Soooooo HILARIOUS! And true!",
+    "ANOTHER JOKE": "OK!\nHow do you stop a robot from destroying you and the rest of civilization?\nYou don’t.\nLOL Soooooo HILARIOUS! And true!\nWanna know more stuff? Say 'MOAR'.",
 
     "MORE JOKES": "I'm all joked out. Try these: %[More robot jokes](http://www.mcsweeneys.net/articles/jokes-made-by-robots-for-robots)",
 
@@ -113,7 +113,7 @@
 
     "MORE": "You wanna know more. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'PIC' or 'WHERE IS DAVE' or 'TWITTER' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
 
-    "MOAR": "You wanna know moar. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'GIF' or 'BOOK' or 'LINKEDIN' or 'WHY' or 'ANOTHER JOKE' and I might have something for you.",
+    "MOAR": "You wanna know moar. Of course you do.\nLet's face it, I'm a pretty simple bot, but you can say things like 'ABOUT' or 'GIF' or 'LINKEDIN' or 'TELL ME A STORY' and I might have something for you.",
 
     "TELL ME MORE": "You wanna ME to tell YOU more? FINE.\nTry saying 'TAY' or 'VIVE' or 'SIGH' or 'FACEBOOK' or 'MIXED REALITY' and I might have something for you.",
 

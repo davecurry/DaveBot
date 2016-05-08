@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say("Hmmmm. Now that is a really interesting QUESTION, COMMENT, or EMOJI that I feel compelled to completely ignore... Say 'HI' to start over or say 'MORE' for more stuff.").then(() => "speak");
+                    return bot.say("Hmmmm, that's a really interesting QUESTION, COMMENT, or EMOJI that I am compelled to ignore... Say 'HI' to start over or say 'MORE' for more stuff.").then(() => "speak");
                 }
 
                 var response = scriptRules[upperText];
